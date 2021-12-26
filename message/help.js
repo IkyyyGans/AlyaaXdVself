@@ -468,12 +468,6 @@ ${week}, ${calender}
 *│* • Nina Kawai
 *│* • AlyaaChann
 *│* • Zeeone Ofc
-*│* • Yudha Perdana
-*│* • Yogi PW
-*│* • Decode Denpa
-*│* • Fernazer
-*│* • X - Dev Team
-*│* • XChillDs & Yuzu
 *│*
 *╰────────────⦁*`
 }
