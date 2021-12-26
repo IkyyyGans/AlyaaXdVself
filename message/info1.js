@@ -8,25 +8,20 @@ return`
 *│▸* Owner : ${nomerOwner}
 *│▸* Tgl pembuatan : 25-07-2021
 *│▸* Tgl release : 29-09-2021
-*│▸* Image : Gawr Gura
+*│▸* Image : Elaina
 *│▸* Voice : Nina kawai
 *│*
 *│▸* SCRIPT BY
 *│*   Decode Denpa
-*│*   X-Dev Team
-*│*   Yogi PW
-*│*   Hexagon
 *│*   Dttaz
+*│*   AlyaaChann
 *│*
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
-*│*   Fernazer
 *│*   X-Dev Team
-*│*   Resta Gamteng
+*│*   AlyaaChann
 *│*   Zeeone Ofc
 *│*   X-Dev Team
-*│*   Yudha perdana
-*│*   Xchilds
 *│*
 *╰────────────[*`
 }
