@@ -1,6 +1,6 @@
 exports.bot = (gender,fake,nomerOwner)=> {
 return`
-*╭─▸*「 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧𝗭 」
+*╭─▸*「 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧 」
 *│*
 *│▸* Nama : ${fake}
 *│▸* Gender : ${gender}
@@ -8,8 +8,8 @@ return`
 *│▸* Owner : ${nomerOwner}
 *│▸* Tgl pembuatan : 25-07-2021
 *│▸* Tgl release : 29-09-2021
-*│▸* Image : Elaina
-*│▸* Voice : Nina kawai
+*│▸* Image : -
+*│▸* Voice : -
 *│*
 *│▸* SCRIPT BY
 *│*   Decode Denpa
@@ -21,7 +21,7 @@ return`
 *│*   X-Dev Team
 *│*   AlyaaChann
 *│*   Zeeone Ofc
-*│*   X-Dev Team
+*│*   Ikyyy
 *│*
 *╰────────────[*`
 }
