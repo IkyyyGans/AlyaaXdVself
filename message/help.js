@@ -463,11 +463,11 @@ ${week}, ${calender}
 *╰────────────⦁*
 
 *╭─❲ THANKS TO ❳*
-*│*
+*│* • Ikyyy
 *│* • Dittaz
 *│* • Nina Kawai
 *│* • AlyaaChann
 *│* • Zeeone Ofc
-*│*
+*│* • Calon Doi Ikyyy
 *╰────────────⦁*`
 }
